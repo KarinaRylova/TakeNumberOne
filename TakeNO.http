@@ -1,0 +1,6 @@
+@TakeNO_HostAddress = http://localhost:5198
+
+GET {{TakeNO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
